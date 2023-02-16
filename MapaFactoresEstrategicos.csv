@@ -1,0 +1,84 @@
+﻿Nivel 0;Nivel 1;Nivel 2;Nivel 3;Nivel 4;Nivel 5;Nivel 6
+TQ;Producción;UP Sólidos;Lanzamientos;ETQ;COL;Bonvent (Montelukast)
+TQ;Producción;UP Sólidos;Lanzamientos;ETQ;COL;Vertipro (Betahístina)
+TQ;Producción;UP Sólidos;Lanzamientos;ETQ;COL;Cynetic Pro (Levosulpiride+S+Panc)
+TQ;Producción;UP Sólidos;Lanzamientos;ETQ;ECU;Alerfast TAB
+TQ;Producción;UP Sólidos;Desarrollo Prioritarios;ETQ;Lurasidona 40 y 80 mg;Alerfast TAB
+TQ;Producción;UP Sólidos;Desarrollo Prioritarios;ETQ;Pylera;Alerfast TAB
+TQ;Producción;UP Sólidos;Desarrollo Prioritarios;ETQ;Naproxeno 750 ER;Alerfast TAB
+TQ;Producción;UP Sólidos;Desarrollo Prioritarios;GastroIntestinal;Antidiarreico 2: Diosmectita (Tipo Muciprost);Alerfast TAB
+TQ;Producción;UP Sólidos;Desarrollo Prioritarios;GastroIntestinal;Antidiarreico 1: Loperamida OTC;Alerfast TAB
+TQ;Producción;UP Sólidos;Desarrollo Prioritarios;GastroIntestinal;Lactasa (enzima);Alerfast TAB
+TQ;Producción;UP Sólidos;Desarrollo Prioritarios;GastroIntestinal;Antiácido 1era generación tabletas;Alerfast TAB
+TQ;Producción;UP Sólidos;Abastecimiento;ETQ;Estabilizar suministro;Anexia
+TQ;Producción;UP Sólidos;Abastecimiento;ETQ;Estabilizar suministro;Alerfast
+TQ;Producción;UP Sólidos;Abastecimiento;ETQ;Aumento de capacidad;PEG
+TQ;Producción;UP Sólidos;Abastecimiento;ETQ;Normalizar entrega muestras médicas;PEG
+TQ;Producción;UP Sólidos;Abastecimiento;GastroIntestinal;Aumento de capacidad;SFL Plus
+TQ;Producción;UP Sólidos;Abastecimiento;GastroIntestinal;Mantenimiento de política de inventarios;SFL Plus
+TQ;Producción;UP Sólidos;Abastecimiento;GastroIntestinal;Mantenimiento de política de inventarios;Bonfiest Plus
+TQ;Producción;UP Sólidos;Optimización del costo;ETQ;Tamaño óptimo del lote;PEG
+TQ;Producción;UP Sólidos;Optimización del costo;ETQ;Mejores negociaciones MP;PEG
+TQ;Producción;UP Sólidos;Optimización del costo;GastroIntestinal;Reducción del costo directo;SFL Plus Sobre
+TQ;Producción;UP Sólidos;Proyectos Especiales;ETQ;Migración de nuevos empaques;Cero Faltantes
+TQ;Producción;UP Sólidos;Proyectos Especiales;ETQ;Migración de nuevos empaques;Fechas Implementación
+TQ;Producción;UP Sólidos;Proyectos Especiales;Gastrointestinal;SemiAutomatización;línea Empaque Efervescentes para cambio de facing
+TQ;Producción;UP Líquidos;Lanzamientos;ETQ;COL;Vermec (Meclizina)
+TQ;Producción;UP Líquidos;Lanzamientos;ETQ;COL;Zinkplus CAPB
+TQ;Producción;UP Líquidos;Lanzamientos;ETQ;ECU;Rinaid
+TQ;Producción;UP Líquidos;Lanzamientos;ETQ;ECU;Openxy
+TQ;Producción;UP Líquidos;Lanzamientos;ETQ;ECU;Dexprofen CAPB
+TQ;Producción;UP Líquidos;Lanzamientos;Gastrointestinal;ECU;Gastrofast
+TQ;Producción;UP Líquidos;Lanzamientos;Gastrointestinal;CAM;Gastrofast
+TQ;Producción;UP Líquidos;Desarrollo prioritarios;ETQ;Rinaid AZ;Gastrofast
+TQ;Producción;UP Líquidos;Desarrollo prioritarios;ETQ;Decadron Concentrado;Gastrofast
+TQ;Producción;UP Líquidos;Desarrollo prioritarios;ETQ;Rupatadina;Gastrofast
+TQ;Producción;UP Líquidos;Desarrollo prioritarios;ETQ;Dexiburprofeno;Gastrofast
+TQ;Producción;UP Líquidos;Desarrollo prioritarios;ETQ;Escitalopram Gotas;Gastrofast
+TQ;Producción;UP Líquidos;Abastecimiento;ETQ;Normalizar entrega muestras médicas;Gastrofast
+TQ;Producción;UP Líquidos;Optimización del costo;ETQ;Migración de nuevos empaques;Hidraplus
+TQ;Producción;UP Líquidos;Optimización del costo;GastroIntestinal;Mejores negociaciones MP;Alginatos
+TQ;Producción;UP Líquidos;Optimización del costo;GastroIntestinal;Mejores negociaciones MP;Hidróxido de Magensio
+TQ;Producción;UP Líquidos;Optimización del costo;GastroIntestinal;Mejores negociaciones MP;Hidróxido de Aluminio
+TQ;Producción;UP Líquidos;Optimización del costo;GastroIntestinal;Mejores negociaciones MP;Simeticona
+TQ;Producción;UP Líquidos;Optimización del costo;GastroIntestinal;Reducción del costo directo;Simeticona
+TQ;Producción;UP Líquidos;Optimización del costo;GastroIntestinal;Reducción del costo directo;MK Doss
+TQ;Producción;UP Líquidos;Optimización del costo;GastroIntestinal;Reducción del costo directo;Sachet GastroFast
+TQ;Producción;UP Líquidos;Proyectos Especiales;ETQ;Migración de nuevos empaques;Cero Faltantes
+TQ;Producción;UP Líquidos;Proyectos Especiales;ETQ;Migración de nuevos empaques;Fechas Implementación
+TQ;Producción;UP Líquidos;Proyectos Especiales;ETQ;Migración productos;Decadrón óvulos a Capsula Blanda
+TQ;Producción;UP Líquidos;Proyectos Especiales;GastroIntestinal;Migración de nuevos empaques;Gastrofast Plegadiza dispensación
+TQ;Producción;UP Semi-Solidos;Lanzamientos;ETQ;COL;Nasaler
+TQ;Producción;UP Semi-Solidos;Lanzamientos;ETQ;COL;Eda Biotic
+TQ;Producción;UP Semi-Solidos;Desarrollo prioritarios;ETQ;Policresuleno gel;Eda Biotic
+TQ;Producción;UP Semi-Solidos;Desarrollo prioritarios;ETQ;Ketoprofeno Gel;Eda Biotic
+TQ;Producción;UP Semi-Solidos;Desarrollo prioritarios;ETQ;Parches;Eda Biotic
+TQ;Producción;UP Semi-Solidos;Desarrollo prioritarios;ETQ;Enzymax;Eda Biotic
+TQ;Producción;UP Semi-Solidos;Desarrollo prioritarios;ETQ;Probiotico Alergías;Eda Biotic
+TQ;Producción;UP Semi-Solidos;Desarrollo prioritarios;ETQ;Testosterona;Eda Biotic
+TQ;Producción;UP Semi-Solidos;Desarrollo prioritarios;ETQ;Tamusolonia + Dutasteride;Eda Biotic
+TQ;Producción;UP Semi-Solidos;Abastecimiento;ETQ;Normalizar entrega muestras médicas;Eda Biotic
+TQ;Producción;UP Semi-Solidos;Abastecimiento;GastroIntestinal;Aumento de capacidad;ArmadoLocomotoras R
+TQ;Producción;UP Semi-Solidos;Optimización del costo;ETQ;Cadena de suministro probióticos;ArmadoLocomotoras R
+TQ;Producción;UP Semi-Solidos;Proyectos Especiales;ETQ;Migración de nuevos empaques;Cero Faltantes
+TQ;Producción;UP Semi-Solidos;Proyectos Especiales;ETQ;Migración de nuevos empaques;Fechas Implementación
+TQ;Producción;UP Esteriles;Lanzamientos;ETQ;COL;Dexprofen Inyectable
+TQ;Producción;UP Esteriles;Abastecimiento;ETQ;Normalizar entrega muestras médicas;Dexprofen Inyectable
+TQ;Producción;UP Esteriles;Proyectos Especiales;ETQ;Migración de nuevos empaques;Cero Faltantes
+TQ;Producción;UP Esteriles;Proyectos Especiales;ETQ;Migración de nuevos empaques;Fechas Implementación
+TQ;Producción;UP Esteriles;Proyectos Especiales;ETQ;Traslado Productos;Fixamicin Dol a UP Líquidos
+TQ;Producción;UP Esteriles;Proyectos Especiales;ETQ;Alternativas de Fabricación;Rinaid
+TQ;Investigación Corporativa;Cuantitativo;Monitor;GastroIntestinal;COL;SFL (3)
+TQ;Investigación Corporativa;Cuantitativo;Monitor;GastroIntestinal;COL;Bonfiest Plus (3)
+TQ;Investigación Corporativa;Cuantitativo;Monitor;GastroIntestinal;COL;Gastrofast (3)
+TQ;Investigación Corporativa;Cuantitativo;Monitor;GastroIntestinal;ECU;Bonfiest Plus (2)
+TQ;Investigación Corporativa;Cuantitativo;Monitor;GastroIntestinal;ECU;Gastrofast (1)
+TQ;Investigación Corporativa;Cuantitativo;Volumetrico;GastroIntestinal;COL;SFL Plus
+TQ;Investigación Corporativa;Cuantitativo;Volumetrico;GastroIntestinal;COL;Bonfiest Plus
+TQ;Investigación Corporativa;Cuantitativo;Tracking Publicitario;GastroIntestinal;COL;Gastrofast
+TQ;Investigación Corporativa;Cuantitativo;Oportunidad;;;
+TQ;Investigación Corporativa;Cualitativo;Pretest;;;
+TQ;Investigación Corporativa;Cualitativo;Postest;;;
+TQ;Investigación Corporativa;Cualitativo;Exploratorio;;;
+TQ;Investigación Corporativa;Mixtos;Equity;;;
+TQ;Investigación Corporativa;Mixtos;Razón de Uso;;;
